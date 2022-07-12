@@ -36,4 +36,4 @@ The provided code is primarily meant to be used for code comparisons (i.e., so t
 
 But you can also run my project code by navigating into the respective code snapshots subfolder (i.e., a subfolder in the `/code` folder) and executing `npm install` followed by `npm start` there.
 
-Please note that dependency mismatches could lead to errors here, even if the provided code itself still works and is correct. In addition, you will always need to bring your own backend URLs (e.g., Firebase) or API keys, if any were used in the course section!
+Please note that dependency mismatches could lead to errors here, even if the provided code itself still works and is correct. In addition, you will always need to bring your own backend URLs (e.g., Firebase) or API keys, if any were used in the course section!# rn-GuessNumber
