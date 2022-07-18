@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'white',
         borderBottomWidth: 2,
         color: 'black',
-        marginVertical: 'bold',
+        marginVertical: 5,
         textAlign: 'center',
         borderRadius: 5
     },
